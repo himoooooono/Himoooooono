@@ -21,8 +21,6 @@
 - React
 - .NET
 - Windows API
-- 
-  
 
 #### その他
 
