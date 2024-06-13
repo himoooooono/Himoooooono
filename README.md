@@ -33,7 +33,7 @@
 
 #### 好きなこと
 - カラオケ
-- お宝探し
+- お宝探し(中古本・PCパーツ・CD・ゲームなど)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=himoooooono&layout=compact)
 
