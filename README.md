@@ -13,6 +13,7 @@
 - Java
 - JS/TS
 - Python
+- Kotlin
 
 #### 使ったことがあるものたち
 - Spring Boot
@@ -21,6 +22,7 @@
 - React
 - .NET
 - Windows API
+- Android
 
 #### その他
 
