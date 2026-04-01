@@ -6,7 +6,6 @@
   
 ![](https://github-readme-stats.vercel.app/api?username=himoooooono&theme=onedark&show_icons=ture)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=himoooooono&theme=onedark)
-[![trophy](https://github-profile-trophy.vercel.app/?username=himoooooono&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <h3>
   Stacks
 </h3>
